@@ -125,7 +125,7 @@ markmap:
 | Red física | Microsoft | Microsoft | Microsoft | Customer |
 | Centro de datos físico | Microsoft | Microsoft | Microsoft | Customer |
 
-## Azure Storage
+## ⌯⌲ Azure Storage
 - Tipos:
   - Block Storage
   - File Storage
@@ -142,13 +142,13 @@ markmap:
     - Network File System (NFS)
   - Azure File Sync
     - SMB, NFS, and FTPS
-- **Azure Blobs**
+- **⌯⌲ Azure Blobs**
   - Three Types
     - Block Blobs: Store text or binary files (videos, archives etc)
     - Append Blobs: Store log files (Ideal for append operations)
     - Page Blobs: Foundation for Azure IaaS Disks (512-byte pages up to 8 TB)
   - Azure Data Lake Storage Gen2
-  - Tiers
+  - ⌯⌲ Tiers
     - Hot: Store frequently accessed data
     - Cool: Infrequently for min 30 days
     - Cold: Infrequently for min 90 days
@@ -328,7 +328,7 @@ markmap:
   - Hybrid Identity
 
 <!-- 139 -->
-## Security
+## ⌯⌲ Security
 - **Microsoft Defender for Cloud**
   - Cloud security posture management (CSPM)
     - Automate identification & remediation of security risks of your cloud configuration
@@ -365,7 +365,7 @@ markmap:
   - Verificación explícita: Use all info - identity, location, device, resource, data classification, time
   - Menor privilegio
   - Asumir brecha
-- **Defense in Depth**
+- **⌯⌲ Defense in Depth**
   - Physical security, Identity and access, Perimeter, Network, Compute, Application, Data
 
 ## Resource Management
@@ -493,7 +493,7 @@ markmap:
    - Service Level Agreement (SLA): Describe Microsoft’s commitments for uptime and connectivity for Azure Services
 
 <!-- 184 -->
-## More Azure
+## ⌯⌲ More Azure
 - Tags
   -  Identify applications, environments or business units that a specific resource is associated with
      - Report and track costs by assigning them with the same tag
@@ -514,12 +514,12 @@ markmap:
 - Azure Marketplace
   - Customized and certified solutions optimized for Azure, provided by Microsoft partners and other software vendors
   - Hourly Billing
-- Azure Migrate
+- ⌯⌲ Azure Migrate
   - Central hub to manage your Azure migration
   - Azure Migrate: Server Migration
   - Azure Database Migration Service
   - Web app migration assistant
-  - Azure Data Box: Physical migration to Azure
+  - ⌯⌲ Azure Data Box: Physical migration to Azure
     - Data Box Disk: 8-TB SSD. Comes in packs of 5 for a total of 40 TB.
     - Data Box: 100-TB capacity
     - Data Box Heavy: Designed to lift 1 PB of data
@@ -614,7 +614,7 @@ markmap:
     - Uses ARM templates
     - Can be integrated into your CI/CD pipelines
 
-## Azure Quick Review
+## ⌯⌲ Azure Quick Review
 - Compute
   - **Azure VMs**
     - Windows o Linux VMs (IaaS)
@@ -684,7 +684,7 @@ markmap:
   - **Azure Cache for Redis**
     - Servicio gestionado de Redis
 
-- Key Cloud Benefits (Beneficios Clave de la Nube)
+- ⌯⌲ Key Cloud Benefits (Beneficios Clave de la Nube)
   - **Elasticity (Elasticidad)**
     - Escalado automático según la demanda
   - **Agility (Agilidad)**

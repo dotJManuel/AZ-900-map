@@ -431,8 +431,8 @@ markmap:
 - Microsoft Purview
   - Unified Data Governance,  Data Discovery and Classification, Data Catalog, Data Access Policies, Integration
 
-## Privacy and Compliance
-- Privacy & Information Protection
+## ⌯⌲ Privacy and Compliance
+- ⌯⌲ Privacy & Information Protection
   - Microsoft Privacy Statement
     - how Microsoft processes it, and for what purposes
   - Product Terms Site

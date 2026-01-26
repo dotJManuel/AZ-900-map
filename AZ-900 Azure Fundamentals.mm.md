@@ -320,6 +320,7 @@ markmap:
   - Rol, Alcance, Asignación
   - Scope: recurso → grupo → suscripción → grupo de gestión
 - **Conditional Access**
+  - decide whether a user can access resources based on factors like identity, location, and device.
 - **Entra Connect**
   - Synchronize on-premises Active Directory with Microsoft Entra ID
   - User Details Synchronization

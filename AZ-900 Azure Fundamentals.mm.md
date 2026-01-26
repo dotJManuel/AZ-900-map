@@ -2,10 +2,10 @@
 title: AZ-900 Azure Fundamentals (Mapa Mental Detallado)
 markmap:
   colorFreezeLevel: 2
-  # initialExpandLevel: 2
+  initialExpandLevel: 2
 ---
 
-## Azure Infrastructure
+## Azure Infsructure
 - Regiones (60+): ubicación geográfica de recursos
 - Availability Zones: datacenters aislados con redundancia
 - Pares de regiones (Region Pairs)
